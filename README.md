@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-3.9-blue)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+![Jupyter](https://img.shields.io/badge/Tool-Jupyter_Notebook-orange)
+
 # 📊 Sales Analytics Project
 
 ## 🎯 Project Objective
